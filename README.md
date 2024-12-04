@@ -3,7 +3,7 @@ a ray-tracing platform for the Czerny-Turner spectrometer using Matlab.
 
 ## Origin
 
-This repository is my work in my previous *Advanced Project* lab course in Shenzhen Technology University, supervised by Prof. Leifeng Cao
+This repository is based on  *Advanced Project* lab course in Shenzhen Technology University.
 
 In the third semester, I developed the 2D version.
 
@@ -23,7 +23,7 @@ Team members:
 
 - Zhao Annan (me)
 
-We failed in the competition, due to my fault in the structure design plus the system needs appropriate calibration to reach high precision. We should have develop a automatic calibration system.
+We failed in the competition, due to my fault in the structure design plus the system needs appropriate calibration to reach high precision. We should develop a automatic calibration system.
 
 ## Where to begin
 
